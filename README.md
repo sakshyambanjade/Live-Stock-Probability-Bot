@@ -1,2 +1,1 @@
-# Nepse-Probability-Bot
-Nepse-Probability-Bot
+#stock Probability Bot!
